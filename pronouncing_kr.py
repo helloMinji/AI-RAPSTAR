@@ -127,7 +127,7 @@ def calculate_point(parse,parses):
             # 초성
         if parses_list[i][0] == parse_list[i][0]:
             c_point +=1
-            # 중성 ## 같은 발음나는 그룹 묶는 걸로 고쳐야함!!
+            # 중성 
         if parses_list[i][1] == parse_list[i][1]:
             c_point +=3
             # 종성
