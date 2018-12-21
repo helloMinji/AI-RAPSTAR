@@ -196,10 +196,10 @@ def calculate_point(parse,parses):
 ![image](https://user-images.githubusercontent.com/41939828/50339246-4c7d8200-055a-11e9-9aa9-982690123a60.png)
 
 
-- 김지혜
+- 김지혜 [@jae57](https://github.com/jae57)
 - 홍민지 [@helloMinji](https://github.com/helloMinji)
-- 김예림
-- 임혜린
+- 김예림 [@yerim2](https://github.com/yerim2)
+- 임혜린 [@imhyerin](https://github.com/imhyerin)
 
 ---------------------------------------------------------------
 
