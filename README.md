@@ -1,4 +1,4 @@
-# AI RAPSTAR
+![image](https://user-images.githubusercontent.com/41939828/50338952-5b176980-0559-11e9-9b08-f9cd4a41ce53.png)
 
 ### > About "AI RAPSTAR"
 
@@ -45,8 +45,8 @@ python model.py
 #### Result
 
 예시 결과 및 train, test 과정을 확인할 수 있습니다.
-- Youtube
-- SoundCloud
+- Youtube : https://www.youtube.com/channel/UCguqCFyz7bv1hnPMslwH2VA
+- SoundCloud : https://soundcloud.com/user-364733903
 
 
 
@@ -55,6 +55,7 @@ python model.py
 ### > 동작 원리
 
 #### 시스템 흐름도
+![image](https://user-images.githubusercontent.com/41939828/50339083-ce20e000-0559-11e9-94ae-edca835ca3a1.png)
 
 #### LSTM
 
@@ -192,7 +193,7 @@ def calculate_point(parse,parses):
 ---------------------------------------------------------------
 
 ### > Developer
-
+![image](https://user-images.githubusercontent.com/41939828/50339246-4c7d8200-055a-11e9-9aa9-982690123a60.png)
 
 
 - 김지혜
